@@ -1,4 +1,26 @@
-# Projeto de Curriculum Vitae em HTML em conjunto com CSS
+# Projeto de Curriculum Vitae
 
-## Código feito em HTML e CSS de um currículo para trabalho
-Preojto feito para o curso de ciências da computação para a aula de Usabilidade, desenvolvimento web, mobile e jogos
+# Sobre o Projeto
+
+
+Projeto utilizando ensinamentos das aulas de HTML da matéria de Usabilidade, desenvolvimento web, mobile e jogos. Esse código tem intuito de criar um Curriculum Vitae simples feito em HTML e alguns conceitos de CSS.
+
+<h4 align="center"> 
+	🚧 Finalizado 🚧
+</h4>
+
+# Índice/Sumário
+
+* [Sobre](#sobre-o-projeto)
+* [Tecnologias Usadas](#tecnologias-usadas)
+* [Contribuição](#contribuição)
+* [Autores](#autores)
+
+# Tecnologias Usadas
+
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)	
+- [HTML](https://html.spec.whatwg.org/multipage/)
+
+# Autores
+
+- [Gabriel Daisuke Matsubara - RA: 8222245563]
